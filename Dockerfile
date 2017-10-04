@@ -1,3 +1,3 @@
 FROM verdaccio/verdaccio:latest
 
-RUN yarn install verdaccio-gitlab
+RUN yarn install sinopia-gitlab
